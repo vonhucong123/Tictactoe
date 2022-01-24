@@ -1,0 +1,59 @@
+<Solution>
+  <PropertyGroup Name="proj.design" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="Resources">
+          <Folder Name="csb">
+            <Project Name="mainMenu.csd" Type="Layer" />
+            <Project Name="playLayer.csd" Type="Layer" />
+          </Folder>
+          <Folder Name="fonts">
+            <TTF Name="arial.ttf" />
+            <TTF Name="Marker Felt.ttf" />
+          </Folder>
+          <Folder Name="pokemons">
+            <Image Name="1.png" />
+            <Image Name="10.png" />
+            <Image Name="11.png" />
+            <Image Name="12.png" />
+            <Image Name="13.png" />
+            <Image Name="14.png" />
+            <Image Name="15.png" />
+            <Image Name="16.png" />
+            <Image Name="2.png" />
+            <Image Name="3.png" />
+            <Image Name="4.png" />
+            <Image Name="5.png" />
+            <Image Name="6.png" />
+            <Image Name="7.png" />
+            <Image Name="8.png" />
+            <Image Name="9.png" />
+          </Folder>
+          <Folder Name="Sounds">
+            <Audio Name="Hit.mp3" />
+            <Audio Name="Point.mp3" />
+            <Audio Name="Wing.mp3" />
+          </Folder>
+          <File Name="1.jpeg" />
+        </Folder>
+        <Image Name="c.png" />
+        <Image Name="Grid.png" />
+        <Image Name="hainguoi.png" />
+        <Image Name="Logo.png" />
+        <Image Name="motnguoi.png" />
+        <Image Name="O Win.png" />
+        <Image Name="O.png" />
+        <Image Name="origin.png" />
+        <Image Name="Pause Button.png" />
+        <Image Name="Play Button Clicked - Copy.png" />
+        <Image Name="Play Button Clicked.png" />
+        <Image Name="Play Button.png" />
+        <Image Name="replay.png" />
+        <Image Name="tictactoe.png" />
+        <Image Name="X Win.png" />
+        <Image Name="X.png" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

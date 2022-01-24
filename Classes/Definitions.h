@@ -1,0 +1,16 @@
+#ifndef __DEFINITIONS_H__
+#define __DEFINITIONS_H__
+
+#define TAG_MAIN_MENU_PLAY_BUTTON 0
+#define TAG_ACHIEVEMENTS_BUTTON 1
+
+#define X_PIECE 8
+#define O_PIECE 0
+#define EMPTY_PIECE -1
+#define PLAYER_PIECE X_PIECE
+#define AI_PIECE O_PIECE
+
+#define TWO_PLAYER 1
+#define PLAY_WITH_AI 0
+
+#endif // __DEFINITIONS_H__
